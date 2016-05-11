@@ -1,3 +1,3 @@
 # ijkplayer-demo
- ����ijkplayer 0.3.1Դ���룬��windows�����±��룬����Android Studio��ȥ��ֻ��Cygwin����ʱʹ�õ��Ĵ��룬ֻ������Ҫ�õ��Ĵ��룬����Ŀ��װ�����������㼯�ɵ����ǵĿ�����Ŀ��ȥ��
+ 基于ijkplayer 0.3.1源代码，在windows环境下编译，导入Android Studio，去掉Cygwin编译时使用到的代码，只保留需要用到的代码，对项目封装，这样更方便集成到我们的开发项目中去。
   
