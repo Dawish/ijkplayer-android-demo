@@ -9,7 +9,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/player-armv7a" />
             <option value="$PROJECT_DIR$/player-java" />
             <option value="$PROJECT_DIR$/sample" />
           </set>

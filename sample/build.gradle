@@ -26,7 +26,6 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:22.2.0'
     compile project(':player-java')
-    compile project(':player-armv7a')
     // need API-21
     // compile project(':player-arm64')
 }

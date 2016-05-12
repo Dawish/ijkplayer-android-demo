@@ -1,1 +1,1 @@
-include ':sample', ':player-java', ':player-armv7a'
+include ':sample', ':player-java'
