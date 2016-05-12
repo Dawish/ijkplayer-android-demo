@@ -1,1 +1,1 @@
-include ':sample', ':player-java'
+include ':sample', ':library-player'
