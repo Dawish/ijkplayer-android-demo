@@ -1,1 +1,5 @@
-include ':sample', ':library-player'
+include ':ijkplayer-java'
+include ':ijkplayer-exo'
+
+include ':ijkplayer-example'
+
